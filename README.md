@@ -2,12 +2,12 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=anushkachouhan25&label=Profile%20views&color=0e75b6&style=flat" alt="anushkachouhan25" /> </span>
 <h1 align="center">Hi👋, I'm Anushka Chouhan</h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Passionate+frontend+developer+from+India!+;+Learning+enthusiast!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Passionate+fullstack+developer+from+India!+;+Learning+enthusiast!;" />
 </h1><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <a href="https://www.linkedin.com/in/anushka-chouhan/ target="blank"><img src="https://img.shields.io/twitter/follow/anushkachouhan?logo=twitter&style=for-the-badge" alt="anushkachouhan" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 I’m a Full Stack Developer
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AnushkaChouhan25)
 
